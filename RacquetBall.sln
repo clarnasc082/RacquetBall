@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RacquetBall", "RacquetBall\RacquetBall.csproj", "{BCC80462-2CF2-4AE2-B3CC-CEEBC00C421F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCC80462-2CF2-4AE2-B3CC-CEEBC00C421F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCC80462-2CF2-4AE2-B3CC-CEEBC00C421F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCC80462-2CF2-4AE2-B3CC-CEEBC00C421F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCC80462-2CF2-4AE2-B3CC-CEEBC00C421F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5937F473-01CA-4B32-8C93-77FB94FB6A68}
+	EndGlobalSection
+EndGlobal
